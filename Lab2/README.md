@@ -2,8 +2,6 @@ Dataset Description:
 
 The dataset used in this lab is Phishing_Email.csv, which contains email data used to classify whether an email is phishing or legitimate. The dataset includes several features describing email characteristics and a target variable indicating whether the email is phishing.
 
-kkkkkkkk
-
 This dataset is suitable for a supervised machine learning classification task.
 ---------------------------------------------
 Machine Learning Problem Definition:
