@@ -11,9 +11,9 @@ sender,
 receiver,
 body text,
 number of URLs found,
-label,
+label
 
-Label meanings
+### Label meanings:
 0 — Legitimate
 
 1 — Phishing
