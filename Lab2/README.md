@@ -14,4 +14,4 @@ The model is expected to learn patterns from the email characteristics and class
 ---------------------------------------------
 The link to the dataset:
 
-https://udksa-my.sharepoint.com/:f:/g/personal/2240005363_iau_edu_sa/IgCS6KC2QADJS6jn9i5E0lSFAYmfgMgFCxsmUlFxKhBHXOI?e=CenAOg
+https://udksa-my.sharepoint.com/:x:/g/personal/2240005363_iau_edu_sa/IQC4l7_yCYBrT61-RDrSdbngAUmiG4esd7oanh8O8J8I0tg?e=uuAOpE
