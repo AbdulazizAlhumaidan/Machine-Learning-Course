@@ -35,6 +35,7 @@ Legitimate: 31,122
 Phishing: 28,476
 
 Garbage: 402
+
 -------------------------------------------------------
 The link to the dataset:
 
