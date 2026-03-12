@@ -1,0 +1,1 @@
+Lab 5 is a feature engineering exercise for machine learning classification. Using a Talabat-style food delivery dataset (100,000 orders), the goal is to predict an order's final status — Delivered, Cancelled, or In Transit — using only information available at order placement time.
