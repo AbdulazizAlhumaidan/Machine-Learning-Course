@@ -1,1 +1,1 @@
-
+We built machine learning models to predict whether LendingClub borrowers would fully repay their loans, using features like FICO score, interest rate, and loan purpose. We compared a Decision Tree and a Random Forest classifier, finding that while the Random Forest had higher accuracy, the Decision Tree was better at actually identifying risky borrowers.
