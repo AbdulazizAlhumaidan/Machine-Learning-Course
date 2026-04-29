@@ -1,1 +1,1 @@
-
+In this lab we did K-Nearest Neighbors classification on a dataset of 1000 samples with 10 features, using scikit-learn to preprocess the data with StandardScaler, train a KNN model, and optimize the K value via the elbow method — improving accuracy from 72% (k=1) to 84% (k=31).
